@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34511.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFireMvc5WebApp", "HangFireMvc5WebApp\HangFireMvc5WebApp.csproj", "{CDA853D6-7538-4B49-BF77-253D95ECC274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA853D6-7538-4B49-BF77-253D95ECC274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA853D6-7538-4B49-BF77-253D95ECC274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA853D6-7538-4B49-BF77-253D95ECC274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA853D6-7538-4B49-BF77-253D95ECC274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD33B7D-D9AC-43C1-BC38-5407BB61F086}
+	EndGlobalSection
+EndGlobal
